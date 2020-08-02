@@ -1823,7 +1823,7 @@
     indianred: 13458524,
     indigo: 4915330,
     ivory: 16777200,
-    khaki: 15787660,
+    khaki: 15797660,
     lavender: 15132410,
     lavenderblush: 16773365,
     lawngreen: 8190976,
