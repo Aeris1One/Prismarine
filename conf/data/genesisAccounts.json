@@ -1,1 +1,8 @@
-{"balances":{},"publicKeys":[]}
+{
+	"balances":{
+		"NXT-7QVD-MTPB-T6NU-AE69N": 100000000000000000
+	},
+	"publicKeys":[
+		"fab6e173c56dc7a43628cd4ea07fea10cfe43fea41ee46e3190d3806fa5d6679"
+	]
+}
